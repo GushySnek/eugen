@@ -6,7 +6,7 @@
 2. Cliquer sur l'icône des extensions à gauche dans VS Code et chercher l'extension Python
 3. Virer Jupyter parce que c'est de la merde
 ### Git
-1. Installer git et isok
+[Installateur](https://github.com/git-for-windows/git/releases/download/v2.37.3.windows.1/Git-2.37.3-64-bit.exe)
 ### Python aka GROS PLAISIR
 1. Installer python (options en screenshot) -> https://www.python.org/downloads/
 
