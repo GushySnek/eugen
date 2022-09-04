@@ -2,8 +2,8 @@
 *Never forgetti RIP in spaghetti...*
 ## Installation
 ### VS Code
-1. [Version Windows 10 Stable](https://code.visualstudio.com/)
-2. Cliquer sur l'icône des extensions à gauche dans VS Code et chercher l'extension Python
+1. Installer VS Code [Version Windows 10 Stable](https://code.visualstudio.com/)
+2. Une fois installé, cliquer sur l'icône des extensions à gauche dans VS Code et chercher l'extension Python
 3. Virer Jupyter parce que c'est de la merde
 ### Git
 [Installateur](https://github.com/git-for-windows/git/releases/download/v2.37.3.windows.1/Git-2.37.3-64-bit.exe)
