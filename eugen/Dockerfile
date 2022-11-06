@@ -1,7 +1,7 @@
 FROM python:3.10
 
 
-RUN pip3 install numpy discord
+RUN pip install numpy discord
 COPY . .
 # COPY pyproject.toml poetry.lock .
 # RUN poetry export -f requirements.txt --output requirements.txt
