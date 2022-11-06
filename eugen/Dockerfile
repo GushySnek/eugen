@@ -6,7 +6,7 @@ COPY . ./app
 # COPY pyproject.toml poetry.lock .
 # RUN poetry export -f requirements.txt --output requirements.txt
 # RUN pip install -r /eugen/requirements.txt
-
+CMD ["python3", "./app/main.py"]
 # CMD ["./manage.py", "runserver", "0.0.0.0:8000"]
 
 
